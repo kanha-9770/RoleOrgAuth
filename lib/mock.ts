@@ -1,0 +1,40 @@
+export const mockUsers = [
+  { id: "user-1", name: "John Smith", email: "john.smith@reliance.com", department: "Finance", avatar: "/avatar1.jpg" },
+  {
+    id: "user-2",
+    name: "Sarah Johnson",
+    email: "sarah.johnson@reliance.com",
+    department: "Engineering",
+    avatar: "/avatar2.jpg",
+  },
+  { id: "user-3", name: "Mike Chen", email: "mike.chen@reliance.com", department: "Marketing", avatar: "/avatar3.jpg" },
+  { id: "user-4", name: "Emily Davis", email: "emily.davis@reliance.com", department: "HR", avatar: "/avatar4.jpg" },
+  {
+    id: "user-5",
+    name: "David Wilson",
+    email: "david.wilson@reliance.com",
+    department: "Operations",
+    avatar: "/avatar5.jpg",
+  },
+  {
+    id: "user-6",
+    name: "Lisa Brown",
+    email: "lisa.brown@reliance.com",
+    department: "Technology",
+    avatar: "/avatar6.jpg",
+  },
+  {
+    id: "user-7",
+    name: "James Taylor",
+    email: "james.taylor@reliance.com",
+    department: "Finance",
+    avatar: "/avatar7.jpg",
+  },
+  {
+    id: "user-8",
+    name: "Anna Martinez",
+    email: "anna.martinez@reliance.com",
+    department: "Marketing",
+    avatar: "/avatar8.jpg",
+  },
+]
